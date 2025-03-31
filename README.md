@@ -1,1 +1,11 @@
-# DAG-informed-ABMs
+# Causal Inference Frameworks for Individual Based Models 
+
+### Background:
+Most human beings have an intuitive understanding of the concept of causation; however, it is a complex phenomenon which remains largely unexplained. After decades of research and philosophical discussion, there are different formal systems that seek to define what the concepts of causality mean and, importantly, how we might understand causality within practical research applications. 
+To improve public health outcomes, we need a causal understanding of how individual behaviours and decisions influence population health trends. Effective interventions can be made by identifying key patterns, recognising the processes through which they occur, and ultimately understanding the spatial and temporal scales at which they operate.
+To address this, many methods have been developed across different fields. In epidemiology, the main approach relies on the evaluation of counterfactual contrasts via statistical regression models informed by graphical causal models (usually in the form of a directed acyclic graph, DAG). In recent years agent-based models (ABMs) and microsimulation models (MSMs) have emerged as promising tools for causal inference evaluations within complex systems.
+### Objectives:
+MSMs and ABMs are effective tools for analysing multiple measures of an exposure in an “in silico” (digital) environment. However, the conditions under which they reliably estimate causal effects need to be better understood. This project builds on previous research to integrate a form causal framework with the ABM/MSM tools for simulating longitudinal data with a priori causal structures. 
+Through this project we aim to better understand how synthetic datasets are simulated to ensure that appropriate causal structure is embedded and identify the essential components in a synthetic dataset that are needed for building reliable ABMs to provide dependable causal insights.
+
+Through this project we aim to better understand how synthetic datasets are simulated to ensure that appropriate causal structure is embedded and identify the essential components in a synthetic dataset that are needed for building causally-informed ABMs.
